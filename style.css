@@ -152,3 +152,7 @@ h4{
 .rating i{
     color: #ff523b;
 }
+
+.offer{
+    background: radial-gradient(#fff, #ffd6d6);
+}
